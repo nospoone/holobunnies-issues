@@ -1,6 +1,12 @@
 # Holobunnies Issues
 This repo doesn't have any code, it's only used for the [waffle.io board](https://waffle.io/nospoone/holobunnies-issues). People with access to the beta can report issues and bug they encouter.
 
+[![Stories in Backlog](https://badge.waffle.io/nospoone/holobunnies-issues.svg?label=ready&title=Backlog)](http://waffle.io/nospoone/holobunnies-issues)
+[![Stories in PC: Open](https://badge.waffle.io/nospoone/holobunnies-issues.svg?label=ready&title=PC:%20Open)](http://waffle.io/nospoone/holobunnies-issues)
+[![Stories in TBA: Open](https://badge.waffle.io/nospoone/holobunnies-issues.svg?label=ready&title=TBA:%20Open)](http://waffle.io/nospoone/holobunnies-issues)
+[![Stories in In Progress](https://badge.waffle.io/nospoone/holobunnies-issues.svg?label=ready&title=In%20Progress)](http://waffle.io/nospoone/holobunnies-issues)
+[![Stories in Done](https://badge.waffle.io/nospoone/holobunnies-issues.svg?label=ready&title=Done)](http://waffle.io/nospoone/holobunnies-issues)
+
 # Instructions (for testers)
 
 ### 1. Log in / Sign up for a Github account
