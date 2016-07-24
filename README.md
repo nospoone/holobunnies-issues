@@ -19,7 +19,7 @@ In order to fix a bug, we have to be able to reproduce the error or problem you'
 #### Basic Information:
 ```
 Operating System  : Windows XP
-Version #         : 0.1.2
+Version #         : PC/53B7021/SA
 Optional Info     : I was using a netbook with a maximum native resolution of 1024x768
 ```
 
