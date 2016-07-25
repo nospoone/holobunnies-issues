@@ -1,11 +1,9 @@
 # Holobunnies Issues
 This repo doesn't have any code, it's only used for the [waffle.io board](https://waffle.io/nospoone/holobunnies-issues). People with access to the beta can report issues and bug they encouter. This way of doing stuff was [@larsiusprime](https://github.com/larsiusprime)'s idea, and this README is mostly copied from [his own issues repo](https://github.com/larsiusprime/tdrpg-bugs). Thanks Lars! :+1::ok_hand:
 
-[![Stories in Backlog](https://badge.waffle.io/nospoone/holobunnies-issues.svg?title=Backlog)](http://waffle.io/nospoone/holobunnies-issues)
-[![Stories in PC: Open](https://badge.waffle.io/nospoone/holobunnies-issues.svg?title=PC:%20Open)](http://waffle.io/nospoone/holobunnies-issues)
-[![Stories in TBA: Open](https://badge.waffle.io/nospoone/holobunnies-issues.svg?title=TBA:%20Open)](http://waffle.io/nospoone/holobunnies-issues)
-[![Stories in In Progress](https://badge.waffle.io/nospoone/holobunnies-issues.svg?title=In%20Progress)](http://waffle.io/nospoone/holobunnies-issues)
-[![Stories in Done](https://badge.waffle.io/nospoone/holobunnies-issues.svg?title=Done)](http://waffle.io/nospoone/holobunnies-issues)
+[![Stories in PC: Open](https://badge.waffle.io/nospoone/holobunnies-issues.svg?label=confirmed%20(pc)&title=PC:%20Open)](http://waffle.io/nospoone/holobunnies-issues)
+[![Stories in TBA: Open](https://badge.waffle.io/nospoone/holobunnies-issues.svg?label=confirmed%20(tba)&title=TBA:%20Open)](http://waffle.io/nospoone/holobunnies-issues)
+[![Stories in In Progress](https://badge.waffle.io/nospoone/holobunnies-issues.svg?label=in%20progress&title=In%20Progress)](http://waffle.io/nospoone/holobunnies-issues)
 
 # Instructions (for testers)
 
